@@ -7,8 +7,8 @@ This project is a simple, fully-functional TCP chatroom written in Java. It is a
 The TCP functions as any other basic messaging app and contains features such as:
 - direct, real-time message exchanging
 - personalization features such as changing nicknames
+- multithreading; multiple users support
 - data preservation
-- multithreading
 
 ## File Directory
 ```src``` hosts all the source code for the project. Inside it are two files:
